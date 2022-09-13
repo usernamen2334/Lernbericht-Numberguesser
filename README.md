@@ -10,8 +10,9 @@ Ich habe ein Numberguesser Spiel programmiert, indem man nur Zahlen zwischen 1 u
 Ich habe gelernt wie man die Try und catch funktionen anwendet.
 
 ## Beschreibung
+<img width="675" alt="image" src="https://user-images.githubusercontent.com/110892575/189845043-6b8d8c0c-62c6-465e-b715-aff891bf2094.png">
+Dieses Bild zeigt eine Demonstration einer ungültigen Eingabe.
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 ```
  try
                     {
@@ -76,11 +77,6 @@ Ich habe gelernt wie man die Try und catch funktionen anwendet.
 
 ```
 Die Funktion try überprüft, ob eine gültige Eingabe eingegeben wurde (Zahl von 1 bis 100), wenn nicht, wird die catch Funktion hervorgerufen. In der catch Funktion wird dem Spieler gesagt, dass seine Eingabe ungültig ist. Daraufhin wird der Spieler gefragt, ob er noch eine Zahl eingeben möchte.
-
-<img width="675" alt="image" src="https://user-images.githubusercontent.com/110892575/189845043-6b8d8c0c-62c6-465e-b715-aff891bf2094.png">
-Dieses Bild zeigt eine Demonstration einer Fehlereingabe.
-
-
 
 ## Verifikation
 
