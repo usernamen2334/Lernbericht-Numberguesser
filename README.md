@@ -81,16 +81,14 @@ Dieses Bild zeigt eine Demonstration einer ungültigen Eingabe.
 Die Funktion try überprüft, ob eine gültige Eingabe eingegeben wurde (Zahl von 1 bis 100), wenn nicht, wird die catch Funktion hervorgerufen. In der catch Funktion wird dem Spieler gesagt, dass seine Eingabe ungültig ist. Daraufhin wird der Spieler gefragt, ob er noch eine Zahl eingeben möchte.
 
 ## Verifikation
-Mein Text ist eine kurze Zusammenfassung, welches beschreibt, was eine try und catch Funktion überhaupt ist.
-
-Mein Bild zeigt wie mein Programm reagiert, wenn eine ungültige Eingabe eingegeben wird
-
-Mein Code zeigt, wie ich die try und catch Funktion angewendet habe.
+*Mein Text ist eine kurze Zusammenfassung, welches beschreibt, was eine try und catch Funktion überhaupt ist.
+*Mein Bild zeigt wie mein Programm reagiert, wenn eine ungültige Eingabe eingegeben wird
+*Mein Code zeigt, wie ich die try und catch Funktion angewendet habe.
 
 # Reflektion zum Arbeitsprozess
-Ich habe während meines Projektes meine Pausen gut eingeplannt
-
-
-👎 und etwas, was nicht gut lief.
-
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+*Ich habe während meines Projektes meine Pausen sehr gut eingeplant.
+*Ich habe mich nicht ablenken lassen und habe konstruktiv gearbeitet.
+*Ich habe meine Ziele für dieses Projekt erreicht.
+ 
+*Ich habe meine Arbeitspakete für mein Projekt nicht gut geplannt.
+**VBV**: Ich kann jetzt besser einschätzen, wie lange ich brauche für die verschiedenen Arbeitspakete und werde sie nächstes Mal besser einplanen.
