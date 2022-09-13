@@ -91,4 +91,5 @@ Die Funktion try überprüft, ob eine gültige Eingabe eingegeben wurde (Zahl vo
 *Ich habe meine Ziele für dieses Projekt erreicht.
  
 *Ich habe meine Arbeitspakete für mein Projekt nicht gut geplannt.
+
 **VBV**: Ich kann jetzt besser einschätzen, wie lange ich brauche für die verschiedenen Arbeitspakete und werde sie nächstes Mal besser einplanen.
