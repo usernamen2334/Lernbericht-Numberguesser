@@ -12,8 +12,73 @@ Ich habe gelernt wie man die Try und catch funktionen anwendet.
 ## Beschreibung
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+```
+ try
+                    {
+                        Console.Clear();
+                        Console.WriteLine("                                                   The Numberguesser");
+                        double ZufalsZahl = Convert.ToDouble(new Random().Next(1, 100));
+                        Console.WriteLine("Geben sie eine zufällige Zahl zwischen 1 und 100 ein");
+                        double eingabe = Convert.ToDouble(Console.ReadLine());
+                        while (eingabe != ZufalsZahl)
+                        {
 
-* Eine textliche Beschreibung
+                            if (eingabe > ZufalsZahl)
+                            {
+                                Console.WriteLine("Die Zufalszahl ist kleiner als ihre eingabe");
+                            }
+                            else
+                            {
+                                Console.WriteLine("Die Zufallszahl ist grösser als ihre eingabe");
+                            }
+                            Console.WriteLine("Geben sie eine neue Zahl ein");
+                            eingabe = Convert.ToDouble(Console.ReadLine());
+                            versuche++;
+                        }
+
+
+                        Console.WriteLine("Du hast die Zahl erratten");
+                        Console.WriteLine("Versuche gebraucht um die Zahl zu eratten" +
+                            "" +
+                            "" +
+                            ": " + versuche);
+
+                        Console.WriteLine("Willst du nochmals Spielen?(Ja/Nein)");
+                        Restart = Console.ReadLine();
+
+                        if (Restart == "Ja")
+                        {
+                            Console.WriteLine("Geben sie eine neue Zahl ein");
+                        }
+
+                        if (Restart == "Nein")
+                        {
+                            Console.WriteLine("Schade!");
+                        }
+
+                    }
+                    catch
+                    {
+                        Console.WriteLine("Deine Eigabe ist ungültig");
+                        Console.WriteLine("Willst du nochmals spielen?(Ja/Nein)");
+                        Restart = Console.ReadLine();
+                        if (Restart == "Ja")
+                        {
+                            Console.WriteLine("Geben sie eine neue Zahl ein");
+                        }
+
+                        if (Restart == "Nein")
+                        {
+                            Console.WriteLine("Schade!");
+                        }
+
+                    }
+
+```
+Die Funktion try überprüft ob eine gültige eingabe eingegeben wurde (Zahl von 1-100), wenn nicht wird die catch funktion hervorgerufen. In der catch funktion wird dem Spieler gesagt, dass seine Eingabe ungültig ist. Daraufhin wird der Spieler gefragt ob er noch eine Zahl eingeben möchte.
+
+<img width="675" alt="image" src="https://user-images.githubusercontent.com/110892575/189845043-6b8d8c0c-62c6-465e-b715-aff891bf2094.png">
+
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
