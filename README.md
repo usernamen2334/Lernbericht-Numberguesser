@@ -10,7 +10,7 @@ Ich habe ein Numberguesser Spiel programmiert, indem man nur Zahlen zwischen 1 u
 Ich habe gelernt wie man die try und catch funktionen anwendet.
 
 ## Beschreibung
-Man verwendet die try und catch funktion um Fehler abzufangen. Man definiert was eine gültige/ungültige Eingabe ist. Die try Funktion wird verwendet wenn die Eingabe gültig ist. Das Spiel geht dan wie geplannt weiter. Wenn aber eine ungültige Eingabe eingegeben wird, wird die catch Funktion verwendet. Diese Funktion versucht den Abruch des Programmes umzugehen. Dem Speiler wird dann noch eine Chance gegeben eine gültige Eingabe zu machen.
+Man verwendet die try und catch Funktion, um Fehler abzufangen. Man definiert, was eine gültige/ungültige Eingabe ist. Die try Funktion wird verwendet, wenn die Eingabe gültig ist. Das Spiel geht dann wie geplant weiter. Wenn aber eine ungültige Eingabe eingegeben wird, wird die catch Funktion verwendet. Diese Funktion versucht, den Abbruch des Programmes umzugehen. Dem Spieler wird dann noch eine Chance gegeben, eine gültige Eingabe zu machen.
 
 <img width="675" alt="image" src="https://user-images.githubusercontent.com/110892575/189845043-6b8d8c0c-62c6-465e-b715-aff891bf2094.png">
 Dieses Bild zeigt eine Demonstration einer ungültigen Eingabe.
